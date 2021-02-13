@@ -18,6 +18,7 @@ def question(problem):
     print()
     for option in problem['options']:
         print(option['mark'], option['data'])
+    print()
     user_answer = input("请输入你的答案")
     print("正确答案:\t %s" % problem['answer'])
     print("你的答案:\t %s" % user_answer)
