@@ -6,7 +6,7 @@
 
 ## Thanks
 
-https://github.com/xinyang-go/mayuan/blob/master/base.txt
+https://github.com/xinyang-go/mayuan
 
 题库来源 https://github.com/xinyang-go/mayuan/blob/master/base.txt
 
