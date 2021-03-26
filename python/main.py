@@ -30,7 +30,6 @@ def question(problem):
 
 def main():
     data = readfile('../data.json', 'utf-8')
-    print(data[1])
     for problem in data:
         if question(problem):
             exit()
